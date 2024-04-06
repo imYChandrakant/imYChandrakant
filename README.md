@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imYChandrakant
-- 👀 I’m interested in Front-End Development
-- 🌱 Currently pursuing full-stack development, with knowledge of JAVA,SPRING BOOT, SQL, HTML, CSS, JavaScript, and ANGULAR 17
+- 👋 Hi, I’m @imYChandrakant,
+- 👀 I’m interested in Front-End Development.
+- 🌱 Currently pursuing full-stack development, with knowledge of Java, Spring Boot, SQL, Html, Css, JavaScript, and Angular 17.
 - 💞️ I’m looking to collaborate on websites and web apps.
 - 📫 How to reach me Email : imychandrakant@gmail.com
 
